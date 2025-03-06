@@ -80,7 +80,7 @@ git push origin main
    ```
 5. Click **Deploy**.
 
-✅ The API will be available at: `https://your-project-name.up.railway.app/docs`
+✅ The API will be available at: `https://fullfrauddetection-production.up.railway.app`
 
 ## 🎯 API Endpoints
 
