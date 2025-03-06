@@ -5,3 +5,7 @@ matplotlib
 seaborn
 imbalanced-learn
 jupyter
+fastapi
+uvicorn
+pydantic
+joblib
